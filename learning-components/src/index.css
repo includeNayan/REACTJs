@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: grey;
+  /* font-size: 4rem; */
+}
