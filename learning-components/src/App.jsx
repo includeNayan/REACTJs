@@ -2,7 +2,7 @@ import Usercard from "./components/Usercard"
 
 function App() {
   return (
-    <div>
+    <div className="card">
       <Usercard />
       <Usercard />
       <Usercard />

@@ -1,0 +1,10 @@
+.container{
+    background-color: antiquewhite;
+    padding: 25px;
+    color: black;
+}
+
+#userimg{
+    height: 50%;
+    border: 2px solid black;
+}
