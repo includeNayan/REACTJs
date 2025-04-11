@@ -3,9 +3,10 @@ import './App.css'
 function App() {
   return (
     <div className="card">
-      <Usercard />
-      <Usercard />
-      <Usercard />
+      {/* person1,2,3 are all props */}
+      <Usercard name="Person1"/>
+      <Usercard name="Person2"/>
+      <Usercard name="Person3"/>
     </div>
   )
 }
